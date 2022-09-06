@@ -1,6 +1,6 @@
 ## Dzianis Salahub
 
-![photo](img\photo.jpg)
+![photo](img\photo.webp)
 
 ### Contacts:
 
